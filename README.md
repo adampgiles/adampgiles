@@ -2,7 +2,7 @@
 
 I am an Aspiring Software Developer. Currently undertaking a 'Diploma in Web App Development' via The Code Institute.
 
-My linkedin profile: Coming Soon... src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
+My linkedin profile: Coming Soon...
  
 [![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adampgiles)](https://github.com/adampgiles/github-readme-stats)
 
