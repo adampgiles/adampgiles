@@ -4,7 +4,7 @@ I am an Aspiring Software Developer. Currently undertaking a 'Diploma in Web App
 
 My linkedin profile: Coming Soon...
  
-[![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adampgiles&title_color=ff6900&border_color=ff6900&icon_color=ff6900&bg_color=1d1d1d)](https://github.com/adampgiles/github-readme-stats)
+[![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adampgiles&title_color=ff6900&border_color=ff6900&text_color=ff8d3b&icon_color=ff6900&bg_color=1d1d1d)](https://github.com/adampgiles/github-readme-stats)
 
 ---
 
