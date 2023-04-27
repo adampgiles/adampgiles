@@ -1,10 +1,12 @@
-### Hi there 👋
+### Croeso i Fy Mhroffil <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb-wls.svg"  width="25"> / Welcome to My Profile <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg"  width="25"> 
 
-I am an Aspiring Software Developer. Currently undertaking a 'Diploma in Web App Development' via The Code Institute.
+I am an Aspiring Software Developer based in Wales, UK.
 
-My linkedin profile: Coming Soon...
+Currently undertaking a 'Diploma in Web App Development' via The Code Institute.
+
+<strong>My LinkedIn Profile</strong>: Coming Soon...
  
-[![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adampgiles&title_color=ff6900&border_color=ff6900&text_color=ff8d3b&icon_color=ff6900&bg_color=1d1d1d)](https://github.com/adampgiles/github-readme-stats)
+[![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adampgiles&title_color=efefef&border_color=efefef&text_color=efefef&icon_color=efefef&bg_color=202020)](https://github.com/adampgiles/github-readme-stats)
 
 ---
 
