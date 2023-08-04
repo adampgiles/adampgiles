@@ -2,9 +2,7 @@
 
 I am an Aspiring Software Developer based in Wales, UK.
 
-Currently undertaking a 'Diploma in Web App Development' via The Code Institute.
-
-<strong>My LinkedIn Profile</strong>: Coming Soon...
+Recently achieved a Level 5 Diploma in Web Application Development with a Distinction award, via Code Institute. 
  
 [![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adampgiles&title_color=efefef&border_color=efefef&text_color=efefef&icon_color=efefef&bg_color=202020)](https://github.com/adampgiles/github-readme-stats)
 
